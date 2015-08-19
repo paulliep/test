@@ -1,3 +1,3 @@
 # test
-used jQuery library for visual effects
-used less.js 
+# used jQuery library for visual effects
+# used less.js 
